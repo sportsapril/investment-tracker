@@ -9,119 +9,140 @@
 
 ---
 
-**TSLA — Tesla Inc.**
-- **Headline:** JPMorgan reiterates Underweight as Tesla's free cash flow turns negative and delivery miss deepens investor concern.
-- **What happened:** Tesla reported Q1 2026 deliveries of ~358,000 vehicles, missing the analyst consensus of ~370,000 by a wide margin. JPMorgan maintained its $145 price target and Underweight rating, calling the stock overvalued. Analyst consensus now projects Tesla's 2026 free cash flow at **negative $5.1 billion**, a dramatic reversal from a $38.8B peak expectation in early 2022. Tesla reports Q1 earnings on **April 22**, where automotive gross margins and supply chain disruptions will be in focus.
-- **Price impact:** Bearish — delivery miss, collapsing FCF forecasts, and key bank sell-side conviction underweight all signal downside pressure ahead of earnings.
-- **Source:** [CNBC — Tesla delivery report](https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html) | [Bloomberg — FCF Collapse](https://www.bloomberg.com/opinion/articles/2026-04-08/tesla-s-free-cash-flow-collapse-exposes-the-stock-s-surreal-valuation) | [CNBC — JPMorgan](https://www.cnbc.com/2026/04/06/tesla-is-down-sharply-in-2026-jpmorgan-sees-even-more-declines-ahead.html)
-
----
-
-**ASML — ASML Holding NV**
-- **Headline:** Bipartisan U.S. lawmakers introduce MATCH Act targeting additional DUV chip export restrictions to China, sending ASML shares down ~2.6%.
-- **What happened:** The Multilateral Alignment of Technology Controls on Hardware (MATCH) Act was introduced this week, designed to further restrict semiconductor equipment exports to China — specifically targeting ASML's deep ultraviolet (DUV) lithography machines. China already declining as a share of ASML's revenue (from 33% in 2025 to a guided ~20% in 2026), and any additional restrictions would further compress the top line. ASML Q1 2026 earnings are expected in mid-April and will be closely watched for any guidance revision.
-- **Price impact:** Bearish — regulatory risk is escalating on a business segment that's already contracting; further restrictions could materially impair 2026 revenue guidance of €34–39B.
-- **Source:** [CNBC — Export curbs](https://www.cnbc.com/2026/04/07/asml-shares-today-us-chip-export-curbs-china.html)
-
----
-
-**UNH — UnitedHealth Group**
-- **Headline:** CMS finalizes 2.48% Medicare Advantage rate hike for 2027, sending UNH stock up as much as 10% intraday — its best single-day move since August.
-- **What happened:** The Centers for Medicare & Medicaid Services finalized a 2.48% reimbursement rate increase for private Medicare Advantage insurers in 2027, ahead of market expectations. UnitedHealth Group was described as "best equipped to weather the challenging Medicare rate environment" by Piper Sandler. This reverses a significant headwind for UNH, which had previously forecast a 2026 revenue decline and had been under pressure from below-expected MA rates.
-- **Price impact:** Bullish — a better-than-feared reimbursement environment is a direct positive for UNH's core government insurance business, which drives the majority of its revenue.
-- **Source:** [Bloomberg — Medicare Rate Hike](https://www.bloomberg.com/news/articles/2026-04-06/medicare-finalizes-2-48-rate-hike-for-private-insurers-in-2027)
+**TSLA — Tesla**
+- **Headline:** JPMorgan reiterates 60% downside call; Q1 delivery miss deepens bear case ahead of April 22 earnings.
+- **What happened:** Tesla's Q1 2026 deliveries fell 14% from Q4 2025 (341,893 vehicles vs. analyst estimates of 370,000). JPMorgan reiterated its Underweight rating with a $145 price target. Analyst consensus now projects Tesla's 2026 free cash flow at negative $5.1 billion — a dramatic reversal from peak expectations of +$38.8 billion in 2022. Q1 earnings are scheduled for April 22, with automotive gross margins and supply chain disruptions as the primary focus.
+- **Price impact:** Bearish — delivery miss, negative FCF trajectory, and major analyst downgrade all signal continued pressure heading into earnings.
+- **Source:** [CNBC – Tesla Q1 deliveries](https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html) | [CNBC – JPMorgan 60% downside](https://www.cnbc.com/2026/04/06/tesla-is-down-sharply-in-2026-jpmorgan-sees-even-more-declines-ahead.html) | [Bloomberg – FCF collapse](https://www.bloomberg.com/opinion/articles/2026-04-08/tesla-s-free-cash-flow-collapse-exposes-the-stock-s-surreal-valuation)
 
 ---
 
 **META — Meta Platforms**
-- **Headline:** Meta launches proprietary "Muse Spark" AI model, marking a dramatic strategic shift away from open-source Llama toward a paid API model.
-- **What happened:** Meta's Superintelligence Labs rebuilt its AI stack from scratch over the last nine months and released Muse Spark, a closed proprietary model — a sharp departure from the open-source Llama family. Muse Spark offers competitive performance in multimodal reasoning, health, and agentic tasks, and is initially entering "private API preview" with select partners, with commercial API access planned to follow. Meta's 2026 AI-related capex is now guided at **$115–135 billion**, nearly double last year. Stock rose 6.5% on April 8 during the broader tech rally tied to the Iran ceasefire.
-- **Price impact:** Mixed — commercial AI monetization thesis is strengthening, but $115–135B capex commitment is a massive cash burn that the market is still pricing; near-term stock has benefited from macro relief.
-- **Source:** [CNBC — Muse Spark debut](https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html) | [CNBC — Can it make money?](https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is-finally-here-but-can-it-make-money.html)
+- **Headline:** Meta launches proprietary AI model "Muse Spark"; stock surged ~6.5% on April 8; JPMorgan raised price target to $150.
+- **What happened:** Meta debuted Muse Spark, its first major proprietary AI model developed by chief AI officer Alexandr Wang's Meta Superintelligence Labs. This is a sharp strategic departure from the open-source Llama family. The model competes in multimodal perception, reasoning, health, and agentic tasks. JPMorgan raised its price target to $150 (from $105), calling it a "turning point." Meta's 2026 AI capex guidance stands at $115–$135 billion — nearly double the prior year.
+- **Price impact:** Bullish — proprietary model confirms AI monetization path; institutional confidence re-rating the stock upward.
+- **Source:** [CNBC – Muse Spark debut](https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html) | [CNBC – JPMorgan turning point](https://www.cnbc.com/2026/04/09/meta-released-a-new-ai-model-this-week-jpmorgan-sees-it-as-a-turning-point-for-the-stock.html)
 
 ---
 
-**AAPL — Apple Inc.**
-- **Headline:** Apple launches MacBook Neo at $599 (its most affordable laptop ever) and foldable iPhone confirmed on track for September — earnings April 30.
-- **What happened:** Apple unveiled the MacBook Neo on April 10 at $599, powered by an iPhone-class A18 Pro chip — its first dedicated budget Mac in over a decade, discontinued the high-end Mac Pro. Separately, Bloomberg confirmed Apple's first foldable iPhone remains on track for its September launch alongside the iPhone 18 Pro. Apple reports Q2 FY2026 earnings on **April 30**. The stock is down ~7% YTD amid tariff headwinds; CEO Cook has disclosed that half of U.S.-bound iPhones are now sourced from India to reduce China tariff exposure.
-- **Price impact:** Bullish on product side — budget Mac opens a new market segment and foldable iPhone timeline reassures investors. Tariff risk remains a key earnings watch.
-- **Source:** [CNBC — MacBook Neo](https://www.cnbc.com/2026/04/10/apple-unveils-its-most-affordable-laptop-ever-what-the-macbook-neo-means-for-investors.html) | [Bloomberg — Foldable iPhone](https://www.bloomberg.com/news/articles/2026-04-07/apple-s-foldable-iphone-remains-on-track-for-september-debut)
+**UNH — UnitedHealth Group**
+- **Headline:** CMS finalizes 2.48% Medicare Advantage rate hike for 2027; UNH jumped up to 10% intraday — best week in 7 months.
+- **What happened:** The Centers for Medicare & Medicaid Services finalized a 2.48% increase in 2027 Medicare Advantage payment rates, exceeding initial proposals and surprising the market positively. UnitedHealth's stock had its best single-day move since August. One remaining sell-side bear stood firm post-announcement but the majority view is that the rate hike materially reduces the near-term reimbursement headwind that weighed on the stock throughout early 2026.
+- **Price impact:** Bullish — higher reimbursement rates directly support premium revenue and margins for UNH's core government insurance segment.
+- **Source:** [Bloomberg – Medicare rate hike](https://www.bloomberg.com/news/articles/2026-04-06/medicare-finalizes-2-48-rate-hike-for-private-insurers-in-2027) | [Bloomberg – Last bear stands pat](https://www.bloomberg.com/news/articles/2026-04-10/unitedhealth-s-last-bear-stands-pat-after-medicare-rate-hike)
 
 ---
 
-**AMZN — Amazon.com**
-- **Headline:** Amazon Pharmacy to distribute Eli Lilly's oral GLP-1 pill Foundayo via same-day delivery in 3,000+ cities; AWS AI run rate disclosed at $15B annualized.
-- **What happened:** Amazon announced its pharmacy division will distribute Eli Lilly's Foundayo (oral GLP-1) across 3,000+ cities with same-day delivery, expanding to 4,500 by end of 2026 — a significant healthcare logistics move. CEO Andy Jassy also disclosed in his annual letter that AWS's AI cloud business has reached a **$15 billion annualized run rate** in Q1 2026, the most specific figure the company has shared. Shares have been under pressure from a $200B capex commitment this year, which analyst Laura Martin (Needham) flagged as being funded by external debt rather than free cash flow like peers.
-- **Price impact:** Bullish on the pharmacy/GLP-1 distribution and AWS disclosure; CapEx overhang remains a headwind. Stock up 3% YTD.
-- **Source:** [CNBC — Jassy letter](https://www.cnbc.com/2026/04/09/andy-jassy-makes-it-clear-giving-up-on-amazons-stock-would-be-an-expensive-mistake.html)
+**PSKY — Paramount Skydance**
+- **Headline:** President Jeff Shell departs following SEC violation lawsuit; stock slipped.
+- **What happened:** Jeff Shell left his role as president of Paramount Skydance after a lawsuit alleged SEC violations. The company called the claims "baseless" and said it found no evidence of an SEC violation. Nonetheless, an unexpected executive departure at a recently merged media entity creates material leadership uncertainty.
+- **Price impact:** Bearish — headline legal risk and sudden leadership change at a critical post-merger integration period.
+- **Source:** [CNBC – Jeff Shell departure](https://www.cnbc.com/2026/04/08/jeff-shell-paramount.html)
 
 ---
 
-**MRVL — Marvell Technology**
-- **Headline:** Barclays upgrades Marvell to Overweight, raises price target to $150 from $105; stock posts third consecutive positive session.
-- **What happened:** Barclays upgraded Marvell to Overweight on April 9, raising its price target to $150 from $105, citing AI data center semiconductor demand momentum. The stock rose ~5% on the upgrade and has posted three straight gaining sessions. This follows Nvidia's announced $2 billion strategic stake in Marvell (March 31), which sent the stock up 13%.
-- **Price impact:** Bullish — a rare combination of a major strategic investor (Nvidia) and a high-conviction analyst upgrade with a large PT hike signals strong institutional conviction.
-- **Source:** [CNBC — Midday movers Apr 10](https://www.cnbc.com/2026/04/10/stocks-making-the-biggest-moves-midday-pltr-mrvl-crwv-zs.html) | [CNBC — Nvidia stake](https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html)
+**GILD — Gilead Sciences**
+- **Headline:** Gilead agrees to acquire German cancer biotech Tubulis for up to $5 billion.
+- **What happened:** Gilead Sciences signed a deal to acquire Tubulis GmbH, paying $3.15 billion upfront in cash plus up to $1.85 billion in contingent milestones. Tubulis is focused on antibody-drug conjugates (ADCs), a highly competitive area of oncology R&D. The deal is expected to close in Q2 2026 and expands Gilead's cancer drug pipeline.
+- **Price impact:** Mixed — strategically sound (ADC is a premium oncology platform), but significant cash outlay and typical "acquirer discount" create short-term headwind.
+- **Source:** [Bloomberg – Tubulis acquisition](https://www.bloomberg.com/news/articles/2026-04-07/gilead-agrees-to-buy-cancer-biotech-tubulis-in-5-billion-deal)
 
 ---
 
-**BRK/B — Berkshire Hathaway**
-- **Headline:** Warren Buffett issues cautionary public remarks on banking fragility; Greg Abel begins making first strategic moves as CEO.
-- **What happened:** Warren Buffett, 95, gave his first public comments since stepping back from the CEO role, warning of "lingering fragility in the banking system" and the interconnected risk of stress across financial institutions. Greg Abel has begun making early moves as the new CEO. The company also resumed share buybacks in March (equivalent of ~$226M). Berkshire is also insuring ships transiting the Strait of Hormuz amid geopolitical tensions.
-- **Price impact:** Mixed — Buffett's caution on banks is worth noting for BAC exposure; CEO transition is closely watched but no red flags yet.
-- **Source:** [CNBC — Buffett remarks](https://www.cnbc.com/2026/04/05/warren-buffett-strikes-measured-tone-on-markets-in-first-remarks-since-stepping-back.html)
+**MSFT — Microsoft**
+- **Headline:** Worst-performing Mag 7 stock in 2026 (–23% in Q1); Goldman Sachs reiterates Buy with $600 target; senior executive departure reported.
+- **What happened:** Microsoft fell 23% in Q1 2026, its worst quarter since 2008, making it the biggest Mag 7 laggard. Goldman Sachs maintains a Buy with a $600 price target, implying ~61% upside from current levels. Another senior executive has departed amid mounting operational challenges. Microsoft is pivoting AI strategy to focus on paid Copilot subscriptions (away from bundling), and plans a $10B Japan AI infrastructure investment through 2029.
+- **Price impact:** Mixed — significant undervaluation by analyst metrics, but leadership attrition and execution risk remain headwinds to a near-term rebound.
+- **Source:** [CNBC – Goldman bullish call](https://www.cnbc.com/2026/04/06/goldman-expects-a-rebound-for-mag-7-underperformer-microsoft.html) | [Bloomberg – Copilot paid pivot](https://www.bloomberg.com/news/articles/2026-04-02/microsoft-hit-audacious-copilot-goals-after-wall-street-input)
+
+---
+
+**ASML — ASML Holding**
+- **Headline:** Shares fell on new proposed U.S. export curbs targeting China; Q1 2026 earnings upcoming in late April.
+- **What happened:** ASML shares fell around April 7 after the U.S. proposed additional export restrictions on semiconductor equipment sales to China — specifically targeting DUV lithography tools that ASML still sells there. China represented ~33% of revenue in 2025 but has been declining. Q1 2026 earnings are expected in late April; the company guided Q1 2026 net sales of €8.2–8.9B. Any guidance revision will be closely watched.
+- **Price impact:** Bearish short-term — additional China restrictions escalate risk on an already contracting segment; potential for guidance cut at upcoming earnings.
+- **Source:** [CNBC – ASML Q4 2025 earnings/China context](https://www.cnbc.com/2026/01/28/asml-q4-2025-earnings-report.html)
+
+---
+
+**ORCL — Oracle**
+- **Headline:** Oracle to cut thousands of jobs to fund AI data center expansion; $16B Michigan data center financing closed.
+- **What happened:** Oracle plans to cut thousands from its 162,000-person workforce to free up capital for AI infrastructure. Separately, $16 billion in financing was finalized for an Oracle data center in Michigan to power OpenAI applications. Oracle's data center commitments now total over $68B across multiple U.S. states. Despite strong structural AI positioning, the stock is down ~25% YTD.
+- **Price impact:** Mixed — cost discipline and massive data center commitment support long-term AI thesis, but near-term revenue miss risk and stock weakness suggest the market wants proof of execution.
+- **Source:** [CNBC – Layoffs](https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html) | [Bloomberg – Data center financing](https://www.bloomberg.com/news/articles/2026-04-01/oracle-data-center-nears-16-billion-financing-after-twisty-path)
 
 ---
 
 ## 📋 Notable (worth knowing, lower urgency)
 
-**AVGO — Broadcom** — Shares rose 6%+ on April 7 after Broadcom announced expanded AI chip deals with Google (future TPU generations) and Anthropic (3.5 gigawatts of compute capacity). Mizuho maintained Buy. — [CNBC](https://www.cnbc.com/2026/04/07/broadcom-shares-jump-before-bell-google-deal.html)
+**AAPL — Apple** — Foldable iPhone confirmed on track for September debut alongside iPhone 18 Pro, per Bloomberg. An earlier report of engineering setbacks caused a ~4% sell-off that has since recovered. Stock remains down ~7% YTD. Apple reports Q2 FY2026 earnings on April 30. — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/apple-s-foldable-iphone-remains-on-track-for-september-debut) | [CNBC](https://www.cnbc.com/2026/04/07/apple-stock-foldable-iphone-report.html)
 
-**MSFT — Microsoft** — Goldman Sachs has a Buy rating with a $600 price target (~61% upside from current ~$405), calling MSFT the most likely Mag 7 rebound candidate after a -23% Q1 2026 (worst quarter since 2008). Developer tools exec Julia Liuson is retiring after 34 years. — [CNBC](https://www.cnbc.com/2026/04/06/goldman-expects-a-rebound-for-mag-7-underperformer-microsoft.html)
+**NVDA — Nvidia** — Approaching a technical breakout level per Bloomberg (April 9), with market technicians flagging a bullish setup. No major fundamental news this week; the April $2B Nebius AI data center investment and record Q4 FY2026 revenue of $68.1B (+73% YoY) remain the backdrop. — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-09/nvidia-shares-near-level-where-technical-traders-see-a-breakout)
 
-**GOOG — Alphabet** — Expanding Intel partnership for AI chips. YouTube raised Premium and Music subscription prices for the first time in years (subscriber base now 125M+). 2026 CapEx guided at $175–185B. Stock rallied with broader tech on Iran ceasefire. — [CNBC](https://www.cnbc.com/2026/04/08/alphabet-nvidia-microsoft-tech-stocks-iran-ceasefire.html)
+**AMZN — Amazon** — CEO Andy Jassy disclosed AWS AI cloud ARR of $15B in Q1 2026; defended $200B 2026 capex plan. J.P. Morgan raised price target to $280 (from $265), reiterating Buy. Advanced talks to acquire satellite company Globalstar (for Project Kuiper) reported in early April. Stock up ~5.6% on Thursday. — [CNBC – Jassy defends capex](https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html)
 
-**NVDA — Nvidia** — Stock trading near technical breakout level per Bloomberg; market technicians see the recent trading range as a bullish setup. No major fundamental news this week. — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-09/nvidia-shares-near-level-where-technical-traders-see-a-breakout)
+**GOOG — Alphabet** — YouTube raised subscription prices for the first time in years, with the subscriber base topping 125 million (April 10). Expanded Broadcom TPU AI chip partnership announced. CEO Pichai cited AI as expanding VC investment opportunities. Led tech rally April 8 on Iran ceasefire. — [CNBC](https://www.cnbc.com/2026/04/08/alphabet-nvidia-microsoft-tech-stocks-iran-ceasefire.html)
 
-**BABA — Alibaba** — Multiple Buy ratings reiterated (GF Securities, Nomura, UBS, Morgan Stanley). Stock was up 8% on April 8 alongside China tech recovery. Jefferies lowered PT to $185 from $212. Hong Kong float compliance confirmed. — [CNBC](https://www.cnbc.com/quotes/BABA)
+**AVGO — Broadcom** — Stock rose ~6% on April 7 after announcing expanded AI chip deals with Google (future TPU generations) and Anthropic (3.5 GW compute capacity). Seaport subsequently downgraded to Hold (April 9), saying gains are "fully factored in." — [CNBC – Google deal](https://www.cnbc.com/amp/2026/04/07/broadcom-shares-jump-before-bell-google-deal.html)
 
-**COIN — Coinbase** — OCC conditionally approved Coinbase National Trust charter (April 2), a key regulatory milestone for its stablecoin strategy. Barclays cut forecast citing "narrower path to outperformance." Mixed signals. — [CNBC](https://www.cnbc.com/quotes/COIN)
+**ARM — Arm Holdings** — ARM CEO Rene Haas reported to be in line to lead much of SoftBank's international business (early April). Primary recent catalyst remains the March 25 in-house AGI CPU chip announcement targeting $15B in chip-alone revenue by 2031; stock jumped 16% on that news and is consolidating. — [CNBC – ARM CEO](https://www.cnbc.com/video/2026/03/30/arm-ceo-rene-haas-we-have-re-positioned-the-company.html) | [Bloomberg – ARM chip strategy](https://www.bloomberg.com/news/articles/2026-03-24/arm-to-sell-its-own-chips-for-first-time-in-bid-for-ai-revenue)
 
-**QCOM — Qualcomm** — Announced expanded collaboration with Snap to power future Snapchat Specs (April 10). Qualcomm reports Q1 earnings **April 29**. $20B buyback + dividend hike announced in March still in effect. 52-week low of $121.99 hit April 7. — [CNBC](https://www.cnbc.com/quotes/QCOM)
+**BABA — Alibaba** — Revealed as the developer behind top-ranked AI video model "HappyHorse-1.0" (April 10); launched a 10,000-chip AI data center powered by proprietary Zhenwu semiconductors. HK-listed shares gained 2.1% on the news. Multiple analysts (Nomura, UBS, Morgan Stanley) maintaining Buy. — [CNBC – HappyHorse](https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html) | [CNBC – AI data center](https://www.cnbc.com/2026/04/08/china-alibaba-data-center-ai-chips-zhenwu.html)
 
-**NFLX — Netflix** — Goldman Sachs rates Netflix a Buy, citing subscription price hikes and improving top-line growth. Netflix walked away from a WBD acquisition deal. Stock up ~5% YTD, outperforming peers. — [CNBC](https://www.cnbc.com/2026/04/06/netflix-is-a-buy-as-subscription-price-hikes-drive-gains-says-goldman-sachs.html)
+**NFLX — Netflix** — Goldman Sachs reiterated Buy, citing subscription price hike potential and advertising revenue ~doubling in 2026. Netflix walked away from the WBD acquisition; buybacks expected to resume. **Q1 2026 earnings April 16.** Stock up ~5% YTD. — [CNBC – Goldman Buy](https://www.cnbc.com/2026/04/06/netflix-is-a-buy-as-subscription-price-hikes-drive-gains-says-goldman-sachs.html)
 
-**SNOW — Snowflake** — Investors filed a lawsuit alleging misleading revenue statements prior to a sharp stock decline (April 3). Monitor for legal risk escalation. — [CNBC](https://www.cnbc.com/quotes/SNOW)
+**MRVL — Marvell Technology** — Cantor Fitzgerald raised price target to $120 (from $100) on April 9. Nvidia's $2B strategic investment (March 31) continues to underpin the stock. Revenue growth rate expected to accelerate each quarter of fiscal 2027. — [Bloomberg – Nvidia stake](https://www.bloomberg.com/news/articles/2026-03-31/nvidia-invests-2-billion-in-marvell-announces-partnership)
 
-**ORCL — Oracle** — PIMCO seeking to sell a portion of the $14B debt package tied to Oracle's Michigan data center (April 8). Stock +9% in March after strong Q3 FY2026 earnings. — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-08/pimco-seeks-to-sell-parts-of-14-billion-oracle-data-center-debt)
+**COIN — Coinbase** — Received conditional OCC approval to operate as a federal trust bank (April 2), enabling payment and custody products under federal supervision. Barclays cut forecast on April 2 citing "narrower path to outperformance"; a separate top analyst kept COIN as a "Top Idea" on April 10. — [CNBC – OCC approval](https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business)
 
-**ALK / LUV — Alaska Air / Southwest Airlines** — Both airlines raised checked bag fees by $10 amid jet fuel surge from Iran tensions. Goldman Sachs issued a Sell on LUV (April 1), PT $46 from $56 (TD Cowen). Iran ceasefire (April 8) pushed jet fuel lower — a potential near-term relief catalyst. — [CNBC](https://www.cnbc.com/quotes/LUV)
+**COST — Costco** — Net sales for the five weeks ended April 5 rose 11.3% YoY to $28.41B. Analysts watching whether gasoline price increases are driving new memberships. A special dividend may be approaching (last issued late 2023; typically every 3–5 years). — [CNBC](https://www.cnbc.com/2026/04/09/costco-rises-on-impressive-monthly-sales-we-still-have-one-question.html)
 
-**PSKY — Paramount Skydance** — Jeff Shell departed from his leadership role, creating executive uncertainty at the recently merged media entity. — [CNBC](https://www.cnbc.com/quotes/PSKY)
+**BRK/B — Berkshire Hathaway** — Warren Buffett issued first public market comments since stepping back, warning of "lingering banking system fragility" while not flagging a compelling buy opportunity. Berkshire also resumed share buybacks in March. Greg Abel era underway. — [CNBC – Buffett comments](https://www.cnbc.com/2026/04/05/warren-buffett-strikes-measured-tone-on-markets-in-first-remarks-since-stepping-back.html)
 
-**FIG — Figma** — RBC Capital initiated at Hold (April 7). Google launched a competing "vibe design" product in March, sending Figma shares down 12% in two days. — [CNBC](https://www.cnbc.com/quotes/FIG)
+**SNOW — Snowflake** — Shareholders filed a lawsuit alleging misleading revenue statements prior to a sharp stock decline (April 3). CEO separately positive on AI ROI with agents enabling 24/7 coding workflows (April 8). Monitor legal risk development. — [Bloomberg – CEO AI interview](https://www.bloomberg.com/news/videos/2026-04-08/snowflake-seeing-strong-return-on-ai-investment-ceo-video)
 
-**ARM — Arm Holdings** — No new news this week; most recent major catalyst was the March 24–25 announcement of its first in-house AGI CPU chip, targeting $15B in revenue from the chip alone by 2031. Stock jumped 16% on that announcement. — [CNBC](https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html)
+**ALK — Alaska Air** — Jet fuel cost surge from Iran conflict is pressuring airlines; Goldman Sachs lowered price target to $61 (from $68) on April 1. Iran ceasefire on April 8 provides near-term relief on fuel prices. — [Bloomberg – ALK quote](https://www.bloomberg.com/quote/ALK:US)
 
-**GLD / SLV — Gold/Silver ETFs** — Gold remains elevated; Goldman Sachs targets $5,400/troy oz by Dec 2026 and UBS forecasts $6,200 near-term. Silver had its worst month in 15 years in March but rebounded. Precious metals supported by geopolitical risk and macro uncertainty. — [CNBC](https://www.cnbc.com/quotes/GLD,SLV)
+**LUV — Southwest Airlines** — Goldman Sachs issued a Sell rating on April 1; TD Cowen cut price target to $46 (from $56). Jet fuel spike is a key headwind. Southwest also raised checked bag fees $10 alongside Delta, reflecting sector-wide cost pass-through. — [CNBC – Southwest 4Q earnings context](https://www.cnbc.com/2026/01/28/southwest-airlines-luv-4q-2025-earnings.html)
 
-**KWEB — KraneShares CSI China Internet ETF** — Chinese tech names (BABA) recovering on macro optimism. Monitor for tariff escalation risk. — [CNBC](https://www.cnbc.com/quotes/KWEB)
+**JPM — JPMorgan Chase** — Q1 2026 big bank earnings season expected to begin the week of April 14. A preview article (April 9) cited "solid deal activity but Iran war uncertainty." UBS cut BAC and JPM price targets on April 7. — [Bloomberg – JPM quote](https://www.bloomberg.com/quote/JPM:US)
+
+**BAC — Bank of America** — Price targets trimmed by UBS (to $62 from $67) and JPMorgan (to $57.50 from $61.50) on April 7. Q1 results imminent. "Strong fundamentals but fading rate tailwind" per analyst commentary this week. — [CNBC – BAC quote](https://www.cnbc.com/quotes/BAC)
+
+**V — Visa** — Launched 6 new AI-powered dispute management tools (April 1); Baird lowered price target to $375 (from $425) on April 7. No earnings-level catalysts this week. — [CNBC – AI tools launch](https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html)
+
+**BMY — Bristol-Myers Squibb** — Cantor Fitzgerald raised price target to $54 (from $45) on April 8. Jim Cramer discussed a portfolio swap involving BMY with another pharma name (April 9). — [CNBC – BMY quote](https://www.cnbc.com/quotes/BMY)
+
+**DELL — Dell Technologies** — Wolfe Research initiated at Peer Perform (April 9). Insider selling notable: Chief Customer Officer sold $23.6M in shares in late March; cluster of ~$369M in total insider sales over prior 30 days. — [CNBC – Insider selling](https://www.cnbc.com/2026/03/30/top-insiders-sold-shares-of-nvidia-dell-technologies-and-five-below-last-week.html)
+
+**GEHC — GE HealthCare** — Goldman Sachs issued a Buy rating (April 8); Evercore ISI cut price target to $85 from $98 (April 6). Mixed analyst signals; no earnings catalyst imminent. — [CNBC – GEHC quote](https://www.cnbc.com/quotes/GEHC)
+
+**GLD — SPDR Gold Shares ETF** — Gold is up ~23% YTD in 2026; J.P. Morgan forecasts $6,300/troy oz by year-end. Iran ceasefire provided a brief pullback but structural safe-haven demand and macro uncertainty remain intact. No ETF-level structural events to report. — [CNBC – GLD](https://www.cnbc.com/quotes/GLD)
+
+**SLV — iShares Silver Trust** — Silver had its worst month in 15 years in March 2026, following a January rally where SLV logged the largest single-day inflow since the 2021 "silver squeeze." Goldman Sachs maintained a bullish gold/silver outlook despite the correction. Monitor for recovery. — [CNBC – Silver retail traders](https://www.cnbc.com/2026/02/02/retail-traders-arent-giving-up-on-slv-after-silvers-plunge.html)
+
+**KWEB — KraneShares China Internet ETF** — China internet stocks (BABA, Tencent) saw $66B combined market cap wipeout in March, but Alibaba's AI news this week (HappyHorse, new chip data center) could serve as a re-rating catalyst for the ETF. — [Bloomberg – Alibaba/Tencent wipeout context](https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat)
+
+**SPY / QQQ / TQQQ — Broad Market ETFs** — S&P 500 gained ~3.6% for the week and Nasdaq rose ~4.7%, driven by the April 8 Iran ceasefire rally. S&P 500 closed Friday (April 10) at 6,816.89. TQQQ (3x levered Nasdaq) would have amplified these moves accordingly. — [Bloomberg – Market macro](https://www.bloomberg.com/news/articles/2026-04-11/new-fed-research-on-stock-market-valuations)
 
 ---
 
 ## 🗓️ Upcoming Catalysts (next 7 days)
 
-- **April 14** — **JPM (JPMorgan Chase)** — Q1 2026 earnings. Expected EPS ~$5+. Watch for commentary on trading revenue, NII guidance, and macro environment. Big Banks earnings season kicks off.
-- **April 14** — **BAC (Bank of America)** — Q1 2026 earnings, same reporting week as JPM and other major banks.
-- **Mid-April** — **ASML** — Q1 2026 earnings report expected (based on prior-year pattern of late-April reporting). Key watch: any guidance revision given MATCH Act export control risk and China sales trajectory.
-- **April 22** — **TSLA (Tesla)** — Q1 2026 earnings. Watch: automotive gross margins, Cybercab/Optimus timeline updates, and any CEO commentary on brand/market share headwinds.
-- **April 29** — **QCOM (Qualcomm)** — Q1 FY2026 earnings. Watch: memory supply impacts, smartphone demand trends, and AI chip progress.
-- **April 30** — **AAPL (Apple)** — Q2 FY2026 earnings. Watch: tariff impact on margins, India manufacturing ramp, and any iPhone demand signals ahead of fall launch cycle.
+- **Apr 14 (Mon)** — **JPM, BAC** — Q1 2026 bank earnings kick off; watch for NII guidance, credit quality, trading revenue, and commentary on macro/tariff environment.
+- **Apr 16 (Wed)** — **NFLX** — Q1 2026 earnings; focus on subscriber growth, ad-tier revenue, and guidance post-WBD deal cancellation.
+- **Apr 22 (Tue)** — **TSLA** — Q1 2026 earnings; automotive gross margin, Cybercab/Optimus timeline, and any response to JPMorgan's bearish thesis.
+- **Late Apr** — **ASML** — Q1 2026 earnings; key watch: China export restriction impact on revenue and any guidance revision to €34–39B full-year range.
+- **Apr 29** — **QCOM** — Estimated earnings date; watch memory shortage impact and smartphone demand trends.
+- **Apr 30** — **AAPL** — Q2 FY2026 earnings; tariff exposure, India manufacturing ramp, and iPhone demand signals ahead of fall product cycle.
+- **Ongoing** — **US-Iran ceasefire (2-week window)** — If deal collapses, energy prices spike and ALK/LUV face renewed pressure; broad market risk-off would hit TQQQ/QQQ/SPY.
 
 ---
 
-*Tickers with no news today: AMD, ABNB, BMY, COST, DELL, DUOL, GEHC, GILD, AGG, ISTB, VCSH, AMPFX, V*
-*Total tickers tracked: 45 | With news: 32 | No news: 13*
+*Tickers with no news today: ABNB, AGG, AMD, AMPFX, DUOL, FIG, ISTB, QCOM, RBLX, VCSH*
+
+*Total tickers tracked: 45 | With news: 35 | No news: 10*
+
 *Sources used: cnbc.com, bloomberg.com, sec.gov*
 
 ---
