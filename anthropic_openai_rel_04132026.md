@@ -7,131 +7,101 @@
 
 ## 🔴 High Impact (act or monitor closely)
 
----
-
-**CRWV — CoreWeave** *(Tier 2: Cloud & Data Center | Rating: BUY)*
-- **Relevance:** Anthropic + OpenAI (Both)
-- **Headline:** CoreWeave signs new multiyear compute deal with Anthropic; also expands Meta agreement to $21B through 2032.
-- **What happened:** CoreWeave announced a significant new multiyear agreement with Anthropic to supply GPU cloud computing capacity for Claude model training and inference workloads. Separately, CoreWeave and Meta expanded their infrastructure deal to $21 billion through December 2032. The stock surged over 10% on the combined news. CoreWeave now guides $12–13B in 2026 revenue (134–153% growth YoY).
-- **Analyst notes:** No fresh analyst note yet on today's Anthropic deal specifically; however, prior consensus is bullish given $66.8B total contracted backlog.
-- **Price impact:** Bullish — two large anchor customers locking in multi-year compute commitments significantly de-risk the revenue trajectory.
-- **Source:** [Bloomberg – CoreWeave/Anthropic deal](https://www.bloomberg.com) | [TechCrunch – AI Infrastructure Deals](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/)
+**MRVL — Marvell Technology** *(Tier 1: Chips & Silicon | Rating: BUY)*
+- **Relevance:** Both (Anthropic custom ASICs; OpenAI/MSFT cloud)
+- **Headline:** Dual upgrades — Citigroup and Barclays raise to Overweight on April 9, 2026
+- **What happened:** Both Citigroup and Barclays upgraded MRVL to Overweight on April 9, with Barclays (Thomas O'Malley) raising price target from $105 to $150. The upgrades are driven by optical port demand expected to double in both 2026 and 2027. This follows NVIDIA's $2B strategic investment in Marvell in March 2026, validating MRVL's custom ASIC pipeline for hyperscalers including Amazon and Microsoft.
+- **Analyst notes:** Barclays: Overweight, PT $150. Citigroup: Overweight. Consensus now Strong Buy (36 analysts).
+- **Price impact:** Bullish — dual upgrades with strong optical demand thesis and NVDA strategic backing.
+- **Source:** [MarketBeat — MRVL Upgrade April 9](https://www.marketbeat.com/instant-alerts/marvell-technology-nasdaqmrvl-shares-gap-up-following-analyst-upgrade-2026-04-09/), [Meyka — Citigroup Upgrades MRVL](https://meyka.com/blog/citigroup-upgrades-mrvl-to-overweight-for-marvell-technology-apr-2026-0904/)
 
 ---
 
-**AVGO — Broadcom Inc** *(Tier 1: Chips & Silicon | Rating: BUY)*
-- **Relevance:** Both (Anthropic 3.5GW TPU; OpenAI custom ASIC)
-- **Headline:** Broadcom-Anthropic gigawatt-scale TPU deal creates structural compute advantage; stock +6% prior week.
-- **What happened:** Anthropic's landmark deal with Google and Broadcom gives Anthropic access to approximately 3.5 gigawatts of TPU-based computing capacity beginning in 2027. Futurum Research highlighted this as a "structural advantage" — Anthropic now has a long-term silicon commitment at a scale that rivals OpenAI's Microsoft arrangement. This is part of Anthropic's $50B US infrastructure commitment. Seaport downgraded to Hold (April 9) saying gains are "fully factored in," but the AI-related backlog of $73B remains intact.
-- **Analyst notes:** Seaport: Hold (downgrade, April 9). Prior consensus: BUY.
-- **Price impact:** Bullish long-term / Neutral short-term after Seaport downgrade.
-- **Source:** [Futurum Research – Broadcom/Anthropic TPU](https://futurumgroup.com/insights/anthropics-gigawatt-scale-tpu-deal-with-broadcom-creates-a-structural-advantage/) | [CNBC – AVGO deals](https://www.cnbc.com/amp/2026/04/07/broadcom-shares-jump-before-bell-google-deal.html)
+**CRWV — CoreWeave** *(Tier 2: Cloud & Data Center Infrastructure | Rating: BUY)*
+- **Relevance:** Both (Anthropic multiyear deal; OpenAI cloud supply)
+- **Headline:** Multiyear deal with Anthropic confirmed; Meta infrastructure deal expanded to $21B through 2032
+- **What happened:** CoreWeave announced a new multiyear computing agreement with Anthropic, directly supplying GPU cloud capacity for Claude model training and inference. Simultaneously, CoreWeave expanded its Meta infrastructure agreement to $21 billion, extended through December 2032. CoreWeave's contracted backlog stands at $66.8B. Stock rose 10%+ on the dual announcements.
+- **Analyst notes:** No rating change reported; strong buy consensus maintained given contracted revenue visibility.
+- **Price impact:** Bullish — direct Anthropic deal plus Meta expansion validates CRWV's positioning as the premier AI-native cloud platform.
+- **Source:** [Yahoo Finance — CRWV vs MSFT Analysis](https://finance.yahoo.com/news/crwv-vs-msft-ai-infrastructure-142600065.html)
 
 ---
 
-**LITE — Lumentum Holdings** *(Tier 6: Networking & Optical | Rating: BUY)*
-- **Relevance:** Both (optical components for AI data center networking)
-- **Headline:** Lumentum manufacturing capacity for AI components sold out through 2028; OCS backlog exceeds $400M.
-- **What happened:** Lumentum reported that its manufacturing lines for critical AI optical components — specifically Optical Circuit Switching (OCS) modules — are fully booked through end of 2028. Record backlog now exceeds $400 million. This reflects the industry-wide move toward all-optical AI networking architectures that prioritize power efficiency over traditional copper/DSP-based switching. 2026 is the first year of mass production of 1.6T optical modules.
-- **Analyst notes:** Added to S&P 500. No fresh downgrade. Consensus BUY.
-- **Price impact:** Bullish — sold-out capacity through 2028 is exceptional visibility, reducing execution risk materially.
-- **Source:** [FinancialContent – Lumentum backlog surge](https://www.financialcontent.com/article/marketminute-2026-4-10-optical-dominance-lumentum-shares-surge-as-ai-infrastructure-backlog-stretches-to-2028)
+**Anthropic (private) — Pentagon "Supply Chain Risk" Battle** *(Macro: affects AMZN, GOOGL, CRWV)*
+- **Relevance:** Anthropic
+- **Headline:** Anthropic battles Pentagon over "supply chain risk" designation; SF court temporarily blocks ban (April 12, 2026)
+- **What happened:** The Department of War designated Anthropic a "supply chain risk" after Anthropic refused to agree to terms around fully autonomous weapons. OpenAI moved quickly to capture Pentagon AI contracts vacated by Anthropic. Anthropic filed suit in San Francisco; as of April 12, a court granted a temporary block on the Pentagon's ban. This is a critical macro overhang: it could disrupt Anthropic's government-adjacent revenue and force enterprise customers (on AWS/CRWV/GCP) to reassess risk.
+- **Analyst notes:** N/A (Anthropic private). Watch AMZN (AWS), GOOGL, and CRWV for enterprise customer concentration risk.
+- **Price impact:** Mixed/Bearish short-term for Anthropic supply chain (AMZN, CRWV, GOOGL); Bullish for OpenAI/MSFT.
+- **Source:** [Fortune — OpenAI Pentagon Deal](https://fortune.com/2026/02/28/openai-pentagon-deal-anthropic-designated-supply-chain-risk-unprecedented-action-damage-its-growth/), [SF Today — Anthropic Battles Pentagon](https://nationaltoday.com/us/ca/san-francisco/news/2026/04/12/anthropic-battles-pentagon-over-ai-technology-supply-chain-risk/)
 
 ---
 
-**COHR — Coherent Corp** *(Tier 6: Networking & Optical | Rating: BUY)*
-- **Relevance:** Both (1.6T transceivers; co-packaged optics)
-- **Headline:** Coherent officially joins S&P 500; Q2 2026 earnings beat; emerges as "toll collector" of AI optical era.
-- **What happened:** Coherent was added to the S&P 500 on March 23, 2026, and followed with a blockbuster Q2 2026 earnings beat. The company has transitioned from a diversified materials company into a mission-critical supplier of 1.6T transceiver modules — the "toll-collector" for AI backbone networking. 2026 marks the first year of mass-volume 1.6T production, with CPO (co-packaged optics) adoption accelerating.
-- **Analyst notes:** Consensus BUY. S&P 500 inclusion drives passive fund buying tailwind.
-- **Price impact:** Bullish — S&P 500 index inclusion + strong earnings + structural 1.6T supercycle.
-- **Source:** [SimplyWallSt – COHR 1.6T AI supercycle](https://simplywall.st/community/narratives/us/tech/nyse-cohr/coherent/unnwslk5-coherent-corp-cohr-the-optical-engine-of-the-16t-ai-supercycle) | [FinancialContent – COHR AI photonics](https://markets.financialcontent.com/stocks/article/finterra-2026-4-7-the-light-of-intelligence-a-deep-dive-into-coherent-corp-cohr-and-the-future-of-ai-photonics)
+**OpenAI (private) — Claims Computing Advantage Over Anthropic** *(Macro: affects MSFT, ORCL, CRWV)*
+- **Relevance:** OpenAI
+- **Headline:** OpenAI tells investors it has computing capacity lead over Anthropic (April 9, 2026)
+- **What happened:** OpenAI briefed investors claiming its early and aggressive buildout of compute capacity — via Microsoft Azure, Stargate/Oracle, and CoreWeave — gives it a meaningful competitive advantage over Anthropic heading into H2 2026. Anthropic separately hit $30B ARR and is planning an October 2026 IPO, but the Pentagon designation threatens to create enterprise deal headwinds. The compute arms race dynamic accelerates capex for MSFT, ORCL, and CRWV.
+- **Analyst notes:** N/A (OpenAI private). Bullish read-through for MSFT, ORCL, CRWV.
+- **Price impact:** Bullish for MSFT / ORCL / OpenAI supply chain.
+- **Source:** [Bloomberg — OpenAI Computing Advantage](https://www.bloomberg.com/news/articles/2026-04-09/openai-tells-investors-it-has-computing-advantage-over-anthropic)
 
 ---
 
-**OKLO — Oklo Inc** *(Tier 3: Power & Energy | Rating: HOLD)*
-- **Relevance:** OpenAI (Sam Altman is Oklo CEO and holds 4.3%)
-- **Headline:** Meta signs nuclear deal with Oklo for up to 6.6 GW across Oklo, Vistra, and TerraPower through 2035.
-- **What happened:** Meta Platforms announced nuclear deals with Oklo, Vistra Energy, and TerraPower to supply up to 6.6 gigawatts of nuclear power to its AI data centers by 2035. Oklo's agreement includes funding to help secure nuclear fuel and advance Oklo's first commercial deployment in Ohio (~2030). This deal validates Oklo's commercial pathway but the first revenue is still 4+ years away.
-- **Analyst notes:** Speculative — no GAAP revenue yet. Strategic validation from Meta is significant but execution risk remains high.
-- **Price impact:** Bullish catalyst — first large-scale customer commitment; further validates Sam Altman's backing narrative.
-- **Source:** [Utility Dive – Meta nuclear deals](https://www.utilitydive.com/news/meta-nuclear-deal-oklo-vistra-terrapower-ai-data-centers/809215/)
-
----
-
-**CEG — Constellation Energy** *(Tier 3: Power & Energy | Rating: BUY)*
-- **Relevance:** Both (24/7 nuclear baseload for AI data centers)
-- **Headline:** Meta signs 20-year, 1.1 GW nuclear PPA with CEG for Illinois AI data centers starting 2027.
-- **What happened:** Meta Platforms signed a 20-year power purchase agreement with Constellation Energy to supply 1.1 gigawatts of nuclear power to its growing AI data centers in Illinois, beginning in 2027. This builds on Constellation's existing deal pipeline with hyperscalers and reinforces CEG's position as the premier 24/7 carbon-free baseload provider. CEG now has over $16.4B committed via its Calpine acquisition.
-- **Analyst notes:** Consensus BUY. Oppenheimer maintains bullish stance.
-- **Price impact:** Bullish — 20-year contracted revenue at scale; structural demand visibility.
-- **Source:** [People News – Big Tech nuclear](https://www.peoplenewstoday.com/news/en/2026/04/10/1137491.html) | [Yahoo Finance – Nuclear stocks 2026](https://finance.yahoo.com/news/buy-3-nuclear-energy-stocks-163900924.html)
-
----
-
-**NVDA — NVIDIA Corp** *(Tier 1: Chips & Silicon | Rating: BUY)*
-- **Relevance:** Both (primary GPU infrastructure for both labs)
-- **Headline:** Wedbush says NVDA is "undervalued given future AI monetization"; Trump withdraws draft worldwide AI chip licensing proposal.
-- **What happened:** Wedbush analysts called Nvidia undervalued relative to its forward AI monetization potential. Separately, the Trump administration withdrew its draft worldwide AI chip licensing framework — removing a significant regulatory overhang on NVDA's international revenue pipeline. Note: existing China H200/Blackwell bans remain in force. Vera Rubin platform (next-gen) is on track for H2 2026 launch, and TSM's 2nm capacity (key for NVDA's next chips) is sold out through 2026–2027.
-- **Analyst notes:** Wedbush: BUY, "undervalued." Morgan Stanley top semiconductor pick for 2026.
-- **Price impact:** Bullish — regulatory relief + strong analyst conviction + Vera Rubin launch upcoming.
-- **Source:** [CapitalStreetFX – NVDA April 9 outlook](https://www.capitalstreetfx.com/market-analysis/nvidia-nvda-market-outlook/) | [Yahoo Finance – Top semi stocks 2026](https://finance.yahoo.com/news/top-semiconductor-stocks-2026-wall-120207279.html)
+**GEV — GE Vernova** *(Tier 3: Power Generation & Energy | Rating: BUY)*
+- **Relevance:** Both
+- **Headline:** GEV hits all-time high of $999.43 on April 10, 2026; BWRX-300 SMR deployments advancing on 4 continents
+- **What happened:** GE Vernova stock reached an all-time high of $999.43 on April 10, 2026, reflecting surging demand for AI data center power equipment. The company's $41–42B backlog with orders 3x in 2025 underpins the move. GEV signed a Main Services Agreement with AFRY for European BWRX-300 deployment and an MOU with Hitachi for Southeast Asia. The Canadian first BWRX-300 is under construction for 2029 completion. Analyst consensus is Buy with a 12-month average target of $820.82.
+- **Analyst notes:** Buy consensus (24 analysts), 12-month PT $820. Stock has run past consensus target on AI power demand.
+- **Price impact:** Bullish — all-time high with multi-continent SMR pipeline expanding.
+- **Source:** [Yahoo Finance — GEV](https://finance.yahoo.com/quote/GEV/), [GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-hitachi-explore-deployment-bwrx-300-small)
 
 ---
 
 ## 🟡 Notable (worth monitoring)
 
-**ORCL — Oracle** *(Tier 2 | Rating: BUY)*
-- **Relevance:** OpenAI (Stargate joint venture, primary cloud partner)
-- $16B financing finalized for Michigan data center powering OpenAI workloads. Oracle is cutting thousands of jobs to redeploy capital into AI infrastructure. Data center commitments now exceed $68B. Stock down ~25% YTD despite strong AI thesis — market awaiting execution proof. — [Bloomberg – Oracle $16B DC](https://www.bloomberg.com/news/articles/2026-04-01/oracle-data-center-nears-16-billion-financing-after-twisty-path) | [GuruFocus – ORCL challenges](https://www.gurufocus.com/news/8693054/oracle-orcl-faces-challenges-amid-ai-data-center-expansion-and-layoffs)
-
-**MSFT — Microsoft (Azure)** *(Tier 2 | Rating: BUY)*
-- **Relevance:** OpenAI (exclusive Azure cloud partner, ~$14B invested)
-- Still worst-performing Mag 7 stock in 2026 (–23% in Q1). Goldman Sachs maintains Buy with $600 PT. Azure hosts OpenAI's ChatGPT infrastructure and Claude is now available on Azure. Hyperscaler capex for 2026: Microsoft guiding ~$80–85B. — [CNBC – Goldman bullish MSFT](https://www.cnbc.com/2026/04/06/goldman-expects-a-rebound-for-mag-7-underperformer-microsoft.html)
-
-**GOOGL — Alphabet** *(Tier 2 | Rating: BUY)*
-- **Relevance:** Anthropic ($2B+ investor; Vertex AI hosts Claude; Broadcom TPU co-developer)
-- Hyperscaler capex for 2026 is $175–185B (up from $91B in 2025). Expanded Broadcom TPU partnership for future generations. YouTube subscriber base topped 125M. Triple exposure: Gemini AI, Google Cloud, and Anthropic investment. — [WolfStreet – Hyperscaler capex](https://wolfstreet.com/2026/02/07/amzn-goog-msft-meta-orcl-plan-700-billion-in-largely-ai-related-capex-in-2026-heres-where-the-cash-comes-from/)
-
-**AMZN — Amazon (AWS)** *(Tier 2 | Rating: BUY)*
-- **Relevance:** Anthropic (primary cloud partner, $8B+ invested)
-- AWS AI cloud ARR now at $15B+ as of Q1 2026. CEO Jassy defended $200B 2026 capex plan. J.P. Morgan raised PT to $280 (from $265). Amazon is Anthropic's primary compute partner with a 1,200-acre Indiana campus and $38B 7-year contract. — [CNBC – Jassy defends capex](https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html)
-
-**AMD — Advanced Micro Devices** *(Tier 1 | Rating: BUY)*
-- **Relevance:** Anthropic (holds AMD warrants for ~160M shares, ~10% stake; AMD MI450 being deployed at 6GW scale)
-- Anthropic is exploring building its own custom AI chips per recent reports, which could affect AMD's long-term warrant value. However, MI450 deployment at 6GW scale remains on track. 25% stock spike on MI450 architecture announcement; still distant #2 to NVDA. — [ResultSense – Anthropic explores own chips](https://www.resultsense.com/news/2026-04-10-anthropic-explores-designing-own-ai-chips)
-
 **TSM — Taiwan Semiconductor** *(Tier 1 | Rating: BUY)*
-- **Relevance:** Both (fabricates NVDA Blackwell, AMD MI450, Broadcom XPUs at 3nm)
-- 2nm production capacity for 2026 is reportedly sold out. CoWoS advanced packaging — THE bottleneck for AI chip supply — remains constrained. Arizona fab expansion progressing. Trump ceasefire with Iran eases Strait of Hormuz supply chain pressure. — [Yahoo Finance – TSMC chip news](https://ca.finance.yahoo.com/news/tech-stocks-today-anthropic-exploring-its-own-chips-tsmc-revenue-soars-on-strong-ai-demand-144220337.html)
-
-**VST — Vistra Energy** *(Tier 3 | Rating: BUY)*
-- **Relevance:** Both (power generation PPAs with hyperscalers including Meta 6.6GW nuclear deal)
-- Vistra is one of three nuclear power suppliers named in Meta's 6.6 GW nuclear deal alongside Oklo and TerraPower. Diversified natural gas + nuclear portfolio with growing term PPAs from hyperscalers. — [Utility Dive – Meta nuclear](https://www.utilitydive.com/news/meta-nuclear-deal-oklo-vistra-terrapower-ai-data-centers/809215/)
-
-**GEV — GE Vernova** *(Tier 3 | Rating: BUY)*
-- **Relevance:** Both (AI data center power equipment, transformers, turbines)
-- Named a top pick alongside CEG and BWXT with positive earnings estimate revisions for 2026 in the last 7 days. Orders growing 3x in 2025 trend continues. Oppenheimer PT $855. $41–42B backlog. — [Yahoo Finance – Nuclear energy stocks](https://finance.yahoo.com/news/buy-3-nuclear-energy-stocks-163900924.html)
+- **Relevance:** Both
+- **Upcoming earnings April 16, 2026 (before market open).** Analysts expect record fourth consecutive quarter with ~50% Q1 net profit increase driven by AI chip demand. 2nm capacity sold out through 2026–2027. CoWoS advanced packaging remains THE supply bottleneck for AI chip delivery. — [Yahoo Finance Earnings Calendar](https://finance.yahoo.com/calendar/earnings?symbol=TSM)
 
 **ASML — ASML Holding** *(Tier 1 | Rating: BUY)*
-- **Relevance:** Both (monopoly on EUV machines used to make every leading AI chip)
-- Seeking Alpha initiated a "transitional year" downgrade note for 2026: High-NA EUV carries lower margins early on; China revenue declining as restrictions bite (~33% → declining). Q1 2026 earnings expected in late April (guided €8.2–8.9B net sales). — [Seeking Alpha – ASML transitional year](https://seekingalpha.com/article/4830837-asml-expecting-transitional-year-in-2026-downgrade)
+- **Relevance:** Both
+- **Earnings April 15, 2026.** Consensus forecasts €10.21B revenue and €7.72 EPS. Management 2026 guidance: net sales €34–39B, gross margin 51–53%. 2026 Zacks Rank #3 (Hold) but analyst community remains bullish on EUV monopoly for AI chip fab. — [Nasdaq — AI Stocks Gain](https://www.nasdaq.com/articles/ai-stocks-gain-tsmc-posts-another-strong-quarter-lrcx-asml)
 
-**VRT — Vertiv Holdings** *(Tier 4 | Rating: BUY)*
-- **Relevance:** Both (power + cooling for AI data centers hosting both labs' workloads)
-- 252% increase in orders reported as rack densities exceed 100kW. Projecting ~$13.5B in 2026 organic revenue, up ~28%. Liquid cooling is becoming the standard for high-density AI racks. UBS Buy. — [Nasdaq – VRT data center](https://www.nasdaq.com/articles/tap-data-center-exposure-these-3-stocks-vrt-anet-fix)
+**AMD — Advanced Micro Devices** *(Tier 1 | Rating: BUY)*
+- **Relevance:** Anthropic (warrant holder ~10% stake)
+- **KeyBanc analyst John Vinh initiated Overweight with $270 PT (+30% upside), forecasting 50% server CPU growth and $14–15B AI revenue in 2026. MI450 chips at 6GW scale.** Anthropic's AMD warrants (~160M shares) create direct alignment. — [Yahoo Finance — AMD Analyst Note](https://finance.yahoo.com/news/analyst-says-advanced-micro-devices-171220199.html)
+
+**OKLO — Oklo Inc.** *(Tier 3 | Rating: HOLD → upgrading to watch)*
+- **Relevance:** OpenAI (Sam Altman owns 4.3%)
+- **Oklo and Meta announced a 1.2 GW Aurora powerhouse campus agreement in Pike County, Ohio (206 acres, former DOE site). Pre-construction begins 2026; first phase online 2030; full 1.2 GW by 2034.** BofA upgraded to Buy at $127; Goldman Sachs downgraded to Neutral at $65 citing licensing/capital risks. Average PT $102.27 (84% upside from current). — [Oklo Newsroom](https://oklo.com/newsroom/news-details/2026/Oklo-Meta-Announce-Agreement-in-Support-of-1.2-GW-Nuclear-Energy-Development-in-Southern-Ohio/default.aspx)
+
+**ETN — Eaton Corporation** *(Tier 4 | Rating: BUY)*
+- **Relevance:** Both
+- **Eaton acquired Boyd Thermal for $9.5B, adding liquid cooling systems for next-generation AI chips directly to its power distribution portfolio.** Positions ETN as a one-stop shop for AI data center power + thermal management. — [Motley Fool — Hyperscaler Data Center Stocks](https://www.fool.com/investing/2026/03/07/hyperscalers-are-investing-heavily-in-data-centers/)
+
+**PWR — Quanta Services** *(Tier 5 | Rating: BUY)*
+- **Relevance:** Both
+- **Record $44B backlog.** Quanta acquired Cupertino Electric and now covers the full electrical path from power plant to server rack for AI data center buildouts. Top pick for AI grid infrastructure buildout. — [Motley Fool — Hyperscaler Data Center Stocks](https://www.fool.com/investing/2026/03/07/hyperscalers-are-investing-heavily-in-data-centers/)
 
 **ANET — Arista Networks** *(Tier 6 | Rating: BUY)*
-- **Relevance:** Both (dominant Ethernet switching in AI data centers)
-- Full-year 2025 revenue hit $9B (+29% YoY). 2026 AI networking revenue target raised from $2.75B to $3.25B. Surpassed Cisco in data center switching market share. 800G/1.6T transceivers now standard. Hedgeye recently flagged black-box margin risk as a counterpoint. — [Nasdaq – Arista data center](https://www.nasdaq.com/articles/tap-data-center-exposure-these-3-stocks-vrt-anet-fix)
+- **Relevance:** Both
+- **Arista raised its 2026 AI networking revenue target from $2.75B to $3.25B** after surpassing Cisco in data center switching share. Full-year 2025 revenue was $9B (+29% YoY). Dominant 800G/1.6T Ethernet switching position for AI clusters. — [Nasdaq — VRT, ANET, FIX](https://www.nasdaq.com/articles/tap-data-center-exposure-these-3-stocks-vrt-anet-fix)
 
-**FN — Fabrinet** *(Tier 6 | Rating: BUY)*
-- **Relevance:** Both (optical module assembly regardless of which AI model wins)
-- "Picks and shovels" optical assembler. Revenue ~$4.2B. Benefits from LITE and COHR volume growth as their key manufacturing partner. Agnostic to winner-takes-all AI dynamics. — [Yahoo Finance – Best AI stocks LITE COHR FN](https://finance.yahoo.com/news/best-ai-stocks-buy-2026-164600902.html)
+**LITE — Lumentum** *(Tier 6 | Rating: BUY)*
+- **Relevance:** Both
+- **Lumentum surging on strong AI optical demand momentum; 60% of revenue tied to AI infrastructure with 65% revenue growth rate.** Sold out through 2028, OCS backlog >$400M. — [Seeking Alpha — Optical Stocks Surge](https://seekingalpha.com/news/4565713-lumentum-coherent-applied-optoelectronics-surge-on-strong-optical-demand-momentum-tied-to-ai)
 
-**GLW — Corning** *(Tier 6 | Rating: HOLD)*
-- **Relevance:** Both (fiber optic infrastructure underlying AI networking)
-- Doubling the size of the fiber-optic market through AI infrastructure demand. Optical communication business exceeding expectations for several consecutive quarters. — [Exoswan – Silicon photonics stocks](https://exoswan.com/photonics-stocks/)
+**COHR — Coherent Corp** *(Tier 6 | Rating: BUY)*
+- **Relevance:** Both
+- **Coherent unveiled breakthrough AI-scale optical innovations at OFC 2026, showcasing 400G/lane, 3.2T transceivers, 12.8T XPO form factor, and co-packaged optics (CPO).** S&P 500 inclusion adds index demand. — [StockTitan — Coherent OFC 2026](https://www.stocktitan.net/news/COHR/coherent-to-unveil-breakthrough-ai-scale-optical-innovations-and-fzmv01hj7zkl.html)
+
+**BWXT — BWX Technologies** *(Tier 3 | Rating: HOLD)*
+- **Relevance:** Both
+- **Secured $174M naval nuclear fuel contract. FY2025 revenue +18% to $3.2B; backlog $7.3B (+50% YoY). 2026 guidance: EPS $4.55–$4.70, FCF $305–320M.** Expanding into TRISO fuel, Project Pele microreactors, and proprietary BANR modular system. — [Yahoo Finance — BWXT](https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-extends-naval-nuclear-role-and-reshapes-cash-flow-story/)
+
+**ORCL — Oracle** *(Tier 2 | Rating: BUY)*
+- **Relevance:** OpenAI (Stargate partner)
+- **Oracle's data center near-finalized a $16B financing facility (April 1, 2026)** for its giant Stargate-adjacent campus after months of complex negotiations. This underpins Oracle's $68B+ data center commitment as OpenAI's primary non-MSFT cloud partner. — [Bloomberg — Oracle $16B Financing](https://www.bloomberg.com/news/articles/2026-04-01/oracle-data-center-nears-16-billion-financing-after-twisty-path)
 
 ---
 
@@ -139,69 +109,69 @@
 
 | Ticker | Company | Tier | Tier Rank | Relevance | Rating | Analyst Note |
 |--------|---------|------|-----------|-----------|--------|--------------|
-| NVDA | NVIDIA Corp | Chips & Silicon | 1 | Both | **BUY** | Wedbush "undervalued"; Morgan Stanley top pick; Vera Rubin H2 2026 |
-| AVGO | Broadcom Inc | Chips & Silicon | 1 | Both | **BUY** | Seaport downgrade to Hold; $73B backlog intact; Anthropic 3.5GW TPU deal |
-| AMD | Advanced Micro Devices | Chips & Silicon | 1 | Anthropic | **BUY** | Anthropic holds warrants; MI450 6GW deployment; monitoring custom chip exploration |
-| TSM | Taiwan Semiconductor | Chips & Silicon | 1 | Both | **BUY** | 2nm sold out; CoWoS constrained; Arizona fab progressing |
-| MU | Micron Technology | Chips & Silicon | 1 | Both | **BUY** | HBM4 ramp; 1-gamma DRAM leadership; ~$8B HBM run-rate |
-| MRVL | Marvell Technology | Chips & Silicon | 1 | Both | **BUY** | Barclays upgrade to OW, PT $150; NVDA $2B investment (March 31) |
-| ASML | ASML Holding | Chips & Silicon | 1 | Both | **BUY** | Seeking Alpha "transitional year" concern; Q1 earnings April; China headwinds |
-| LRCX | Lam Research | Chips & Silicon | 1 | Both | **BUY** | BofA top pick; memory supercycle beginning |
-| INTC | Intel | Chips & Silicon | 1 | Both | **HOLD** | Foundry turnaround (Intel 18A); cheap but uncertain |
-| ORCL | Oracle | Cloud & Data Center | 2 | OpenAI | **BUY** | $16B Michigan DC; $68B+ commitments; execution risk; stock –25% YTD |
-| CRWV | CoreWeave | Cloud & Data Center | 2 | Both | **BUY** | NEW Anthropic deal + $21B Meta deal; 10%+ stock surge; $12–13B rev guide |
-| APD | Applied Digital | Cloud & Data Center | 2 | Both | **HOLD** | 400MW capacity; early-stage; $11B pipeline; monetization risk |
-| AMZN | Amazon (AWS) | Cloud & Data Center | 2 | Anthropic | **BUY** | AWS AI ARR $15B+; JPM PT $280; $200B 2026 capex |
-| MSFT | Microsoft (Azure) | Cloud & Data Center | 2 | OpenAI | **BUY** | Goldman Buy $600 PT; worst Mag 7 in Q1 (–23%); Azure OpenAI exclusive |
-| GOOGL | Alphabet (Google) | Cloud & Data Center | 2 | Anthropic | **BUY** | $175–185B 2026 capex; Broadcom TPU partnership; $2B+ in Anthropic |
-| CEG | Constellation Energy | Power & Energy | 3 | Both | **BUY** | Meta 20yr/1.1GW PPA; nuclear 24/7 baseload; $16.4B Calpine deal |
-| VST | Vistra Energy | Power & Energy | 3 | Both | **BUY** | Meta 6.6GW nuclear deal (with OKLO, TerraPower); diversified portfolio |
-| GEV | GE Vernova | Power & Energy | 3 | Both | **BUY** | Top pick w/ positive EPS revisions; $41–42B backlog; OPY PT $855 |
-| OKLO | Oklo Inc | Power & Energy | 3 | OpenAI | **HOLD** | Meta nuclear deal (first customer); Ohio ~2030; Sam Altman connection |
-| BWXT | BWX Technologies | Power & Energy | 3 | Both | **HOLD** | Top pick w/ positive EPS revisions; SMR + defense expertise |
-| VRT | Vertiv Holdings | Power Infra & Cooling | 4 | Both | **BUY** | 252% order surge; $13.5B organic rev; liquid cooling standard |
-| ETN | Eaton Corporation | Power Infra & Cooling | 4 | Both | **BUY** | Data center switchgear; Boyd acquisition; no major fresh news |
-| MOD | Modine Manufacturing | Power Infra & Cooling | 4 | Both | **BUY** | Thermal management; focused pure-play; UBS Buy |
-| NVT | nVent Electric | Power Infra & Cooling | 4 | Both | **BUY** | Intelligent PDUs; 31% sequential Q3 growth; spinoff pure-play |
-| PWR | Quanta Services | Electrical Construction | 5 | Both | **BUY** | #1 substation contractor; record backlog; AI grid buildout |
-| FIX | Comfort Systems | Electrical Construction | 5 | Both | **BUY** | 62% same-store rev growth; >30% AI-related; no major fresh news |
-| ANET | Arista Networks | Networking & Optical | 6 | Both | **BUY** | $9B rev +29%; AI target raised to $3.25B; surpassed Cisco |
-| LITE | Lumentum | Networking & Optical | 6 | Both | **BUY** | Sold out through 2028; OCS backlog >$400M; S&P 500 added |
-| COHR | Coherent Corp | Networking & Optical | 6 | Both | **BUY** | S&P 500 inclusion; Q2 2026 earnings beat; 1.6T supercycle |
-| ALAB | Astera Labs | Networking & Optical | 6 | Both | **BUY** | PCIe retimers + smart cables; $852M revenue; UALink leadership |
-| AOI | Applied Optoelectronics | Networking & Optical | 6 | Both | **BUY** | US-based fiber sovereignty play; domestic demand surge |
-| FN | Fabrinet | Networking & Optical | 6 | Both | **BUY** | ~$4.2B rev; picks-and-shovels; agnostic to AI winner |
-| GLW | Corning | Networking & Optical | 6 | Both | **HOLD** | Fiber doubling; optical comms exceeding expectations |
-| AMKR | Amkor Technology | Packaging & Connectors | 7 | Both | **HOLD** | 2.5D OSAT packaging; TSMC-adjacent; AI chip assembly |
-| APH | Amphenol | Packaging & Connectors | 7 | Both | **BUY** | Blue-chip connectors; high-value AI data center share |
-| CLS | Celestica | Packaging & Connectors | 7 | Both | **BUY** | EMS/contract manufacturing; Marvell program ramp |
-| CAMT | Camtek Ltd | Packaging & Connectors | 7 | Both | **BUY** | Hawk wafer inspection; advanced packaging; 3D AI chips |
+| NVDA | NVIDIA Corp | Chips & Silicon | 1 | Both | BUY | Avg PT $264.54; 38-39 analyst Buy/Strong Buy consensus. JP Morgan Overweight. |
+| AVGO | Broadcom Inc | Chips & Silicon | 1 | Both | BUY | Avg PT $438; AI semi rev >$10.7B (+145% YoY) in 2Q guidance; 27-29 analyst Buy consensus. |
+| AMD | Advanced Micro Devices | Chips & Silicon | 1 | Anthropic | BUY | KeyBanc OW, PT $270; $14-15B AI rev 2026; Anthropic warrant ~10% stake. |
+| TSM | Taiwan Semiconductor | Chips & Silicon | 1 | Both | BUY | Earnings April 16; Q1 net profit +50% expected; 2nm sold out 2026–2027. |
+| MU | Micron Technology | Chips & Silicon | 1 | Both | BUY | Zacks Strong Buy; avg PT $492.58 (+30%); HBM run-rate ~$8B. |
+| MRVL | Marvell Technology | Chips & Silicon | 1 | Both | BUY | 🔴 Dual upgrade (Citi + Barclays) April 9; PT raised to $150; optical demand doubling. |
+| ASML | ASML Holding | Chips & Silicon | 1 | Both | BUY | Earnings April 15; FY2026 guidance €34-39B revenue; EUV monopoly intact. |
+| LRCX | Lam Research | Chips & Silicon | 1 | Both | BUY | Zacks Rank #2 Buy; memory supercycle tailwind; BofA top pick. |
+| INTC | Intel | Chips & Silicon | 1 | — | HOLD | No material news. Intel 18A foundry progress slow; speculative turnaround. |
+| ORCL | Oracle | Cloud & Data Center | 2 | OpenAI | BUY | 🟡 $16B data center financing finalized April 1; Stargate pillar. |
+| CRWV | CoreWeave | Cloud & Data Center | 2 | Both | BUY | 🔴 New Anthropic multiyear deal; $21B Meta deal extended to 2032; stock +10%. |
+| APD | Applied Digital | Cloud & Data Center | 2 | Both | HOLD | 400MW capacity, $11B pipeline; early-stage; no material news. |
+| AMZN | Amazon (AWS) | Cloud & Data Center | 2 | Anthropic | BUY | AWS AI ARR $15B+; chip business $20B ARR (+triple digits YoY); primary Anthropic cloud. |
+| MSFT | Microsoft (Azure) | Cloud & Data Center | 2 | OpenAI | BUY | Part of $602B hyperscaler capex surge in 2026; OpenAI computing advantage claim benefits MSFT. |
+| GOOGL | Alphabet (Google) | Cloud & Data Center | 2 | Anthropic | BUY | Part of $700B AI-related capex plan; Vertex AI hosts Claude; Broadcom TPU co-developer. |
+| CEG | Constellation Energy | Power Generation | 3 | Both | BUY | 1.1 GW Meta PPA (20-yr) confirmed; avg PT $406.50; Barclays OW PT $360. |
+| VST | Vistra Energy | Power Generation | 3 | Both | BUY | Meta 2,600 MW nuclear PPA; 2026 EBITDA guidance $6.8-7.6B; earnings May 7. |
+| GEV | GE Vernova | Power Generation | 3 | Both | BUY | 🔴 All-time high $999.43 on April 10; BWRX-300 advancing globally; $41-42B backlog. |
+| OKLO | Oklo Inc | Power Generation | 3 | OpenAI | HOLD | 🟡 1.2 GW Meta deal in Ohio; BofA Buy $127 vs Goldman Neutral $65; avg PT $102. |
+| BWXT | BWX Technologies | Power Generation | 3 | Both | HOLD | 🟡 $174M naval fuel contract; backlog $7.3B (+50%); 2026 EPS guide $4.55-4.70. |
+| VRT | Vertiv Holdings | Power & Cooling | 4 | Both | BUY | Barclays OW upgrade Jan 2026; 28% organic sales growth 2026; $13.5B backlog. |
+| ETN | Eaton Corporation | Power & Cooling | 4 | Both | BUY | 🟡 Acquired Boyd Thermal $9.5B for liquid cooling AI chip systems. |
+| MOD | Modine Manufacturing | Power & Cooling | 4 | Both | BUY | UBS Buy; thermal management for data centers; no new material news. |
+| NVT | nVent Electric | Power & Cooling | 4 | Both | BUY | Intelligent PDUs; 31% sequential Q3 growth; no new material news. |
+| PWR | Quanta Services | Electrical & Grid | 5 | Both | BUY | 🟡 Record $44B backlog; Cupertino Electric acquisition gives full AI data center electrical coverage. |
+| FIX | Comfort Systems | Electrical & Grid | 5 | Both | BUY | HVAC/mechanical for AI data centers; featured in data center analyst picks. |
+| ANET | Arista Networks | Networking & Optical | 6 | Both | BUY | 🟡 2026 AI networking rev target raised to $3.25B; surpassed Cisco in DC switching. |
+| LITE | Lumentum | Networking & Optical | 6 | Both | BUY | 🟡 60% revenue AI-tied; 65% growth rate; surging on optical demand. |
+| COHR | Coherent Corp | Networking & Optical | 6 | Both | BUY | 🟡 OFC 2026 CPO showcase; 3.2T transceivers; S&P 500 inclusion demand. |
+| ALAB | Astera Labs | Networking & Optical | 6 | Both | BUY | PCIe retimers + CXL memory controllers; UALink leadership; $852M revenue. |
+| AOI | Applied Optoelectronics | Networking & Optical | 6 | Both | BUY | Surging with LITE/COHR on AI optical demand; US fiber sovereignty play. |
+| FN | Fabrinet | Networking & Optical | 6 | Both | BUY | ~$4.2B revenue; agnostic to AI winner; 400G/800G/1.6T optical module assembly. |
+| GLW | Corning | Networking & Optical | 6 | Both | HOLD | Fiber optic demand doubling from AI; optical comms exceeding expectations. |
+| AMKR | Amkor Technology | Packaging & Other | 7 | Both | HOLD | 2.5D OSAT packaging TSMC-adjacent; no material news. |
+| APH | Amphenol | Packaging & Other | 7 | Both | BUY | AI data center connectors; blue-chip; no material news. |
+| CLS | Celestica | Packaging & Other | 7 | Both | BUY | EMS/contract manufacturing; Marvell program ramp; no material news. |
+| CAMT | Camtek Ltd | Packaging & Other | 7 | Both | BUY | Wafer inspection for advanced AI chip packaging; no material news. |
 
 ---
 
-## 📅 Upcoming Catalysts
+## 📅 Upcoming Catalysts (Next 2 Weeks)
 
-- **April 14** — JPMorgan, Bank of America Q1 earnings (macro read-through for AI capex commitments)
-- **April 16** — Netflix Q1 earnings
-- **Late April** — ASML Q1 2026 earnings (guided €8.2–8.9B; China guidance update critical)
-- **April 22** — Tesla Q1 earnings (AI/FSD sentiment indicator)
-- **April 30** — Apple Q2 FY2026 earnings
-- **May** — NVDA Q1 FY2027 earnings expected (Vera Rubin demand visibility)
-- **May** — MRVL fiscal Q1 earnings (AI ASIC ramp commentary)
-- **Q3 2026** — Anthropic IPO window reportedly open (October 2026 per reports)
-- **H2 2026** — NVDA Vera Rubin platform launch; AMD MI450 broader deployment
-- **2027** — Anthropic/Broadcom 3.5GW TPU capacity begins; CEG Meta PPA starts
+- **April 15, 2026** — ASML Q1 2026 Earnings (consensus: €10.21B revenue, €7.72 EPS; watch for EUV demand commentary and 2nm TSMC tool orders)
+- **April 16, 2026** — TSM Q1 2026 Earnings (before market open; consensus: ~50% net profit growth; CoWoS capacity update critical for AI chip supply chain)
+- **May 7, 2026** — VST Q1 2026 Earnings (Vistra; guidance midpoint EBITDA $7.2B; watch nuclear PPA delivery timeline)
+- **Late April 2026** — NVDA GTC follow-on / Blackwell Ultra availability updates expected
+- **April 2026 (ongoing)** — Anthropic vs. Pentagon lawsuit: next hearing expected mid-to-late April; outcome shapes US government AI procurement and enterprise risk perception
 
 ---
 
 ## 🔍 Key Themes This Week
 
-1. **Anthropic reaches $30B ARR** — overtakes OpenAI ($25B) in annualized revenue. IPO targeted for October 2026. Projects positive free cash flow by 2027.
-2. **Nuclear becomes AI's backbone power source** — Meta's 6.6GW nuclear deals (CEG, VST, OKLO, TerraPower) signal a multi-decade infrastructure commitment.
-3. **Optical networking supercycle underway** — 1.6T module mass production begins in 2026. LITE sold out through 2028. COHR joins S&P 500.
-4. **Hyperscaler capex at historic scale** — $700B combined 2026 capex from AMZN, GOOG, MSFT, META, ORCL. 75% AI-directed.
-5. **Anthropic exploring custom chips** — Early-stage discussions on in-house silicon (like OpenAI and Meta) could long-term affect AMD warrant value and NVDA/AVGO dependencies.
+- **The Anthropic-Pentagon flashpoint is the week's dominant macro story.** Anthropic's "supply chain risk" designation by the DOW (April 12 court block) creates enterprise customer uncertainty and accelerates OpenAI's capture of government AI spend. Monitor MSFT/ORCL as OpenAI beneficiaries, and AMZN/CRWV as Anthropic cloud infrastructure holders.
+
+- **MRVL's dual upgrade signals optical/custom ASIC momentum is accelerating.** Two top-tier investment banks upgrading the same name on the same day, post-NVIDIA's $2B strategic investment, is uncommon and validates MRVL's custom silicon pipeline for 2026–2027 AI chip cycles.
+
+- **Nuclear power is becoming the most contested infrastructure bet in AI.** GEV at all-time highs, Oklo's 1.2 GW Meta deal, BWXT contract wins, and Constellation/Vistra PPAs collectively signal that long-duration, clean baseload energy is the scarcest resource in the AI buildout — with hyperscalers now signing 20-year contracts to secure it.
+
+- **CoreWeave's dual anchor deals (Anthropic + Meta expansion) validate the GPU cloud thesis.** CRWV is now directly embedded in both leading AI labs' compute supply chains, giving it unusual revenue durability. The $66.8B contracted backlog makes it a de facto bond-like AI infrastructure play.
+
+- **Optical interconnects are entering a multi-year supercycle.** LITE, COHR, AOI all surging on AI demand; optical interconnects projected to grow from $16B (2024) to $34–41B (2030). The CPO (co-packaged optics) announcements at OFC 2026 by Coherent suggest next-generation data center architectures will structurally elevate demand for Tier 6 names.
 
 ---
-*Sources: Web search, CNBC, Bloomberg, Yahoo Finance, Seeking Alpha, Futurum Research, Utility Dive*
-*DISCLAIMER: For informational purposes only. Not financial advice. Always consult a licensed financial advisor before making investment decisions.*
+
+*Sources: Web search, Yahoo Finance, Bloomberg, CNBC, Fortune, Motley Fool, Seeking Alpha, TipRanks, Nasdaq, MarketBeat, StockTitan, Oklo Newsroom, GE Vernova Newsroom*
+*DISCLAIMER: For informational purposes only. Not financial advice.*
